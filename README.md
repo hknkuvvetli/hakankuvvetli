@@ -1,0 +1,2 @@
+# hakankuvvetli
+genel amaçlı depo
